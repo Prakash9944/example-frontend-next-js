@@ -39,7 +39,7 @@ You also need to enable `localhost:3000` in your CORS Origins settings! Either t
 sanity cors add http://localhost:3000
 ```
 
-Then start the example app with:
+Then start the example app withasdsa:
 
 ```
 npm run dev
